@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		F0D58E8F2A61639000C77155 /* N1S.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = N1S.java; sourceTree = "<group>"; };
+		F0D58E902A61666300C77155 /* Test.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Test.java; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		F0D58E882A61637500C77155 = {
 			isa = PBXGroup;
 			children = (
+				F0D58E902A61666300C77155 /* Test.java */,
 				F0D58E8F2A61639000C77155 /* N1S.java */,
 			);
 			sourceTree = "<group>";
